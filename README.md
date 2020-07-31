@@ -1,6 +1,8 @@
 
-# Supervised Learning
-## Finding Donors for CharityML
+# Finding Donors for CharityML
+
+## Supervised Learning - Udacity IMLND
+
 
 ### Description
 
